@@ -13,7 +13,7 @@ main:
     parent: 소개
     name: 연구
     url: /#research
-    weight: 3
+    weight: 2
     parent: 소개
   - name: 근황
     url: /#papers
