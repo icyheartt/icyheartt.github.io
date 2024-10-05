@@ -7,39 +7,44 @@ main:
   - name: 소개
     url: /
     weight: 1
+  - name: 근황
+    url: /#papers
+    weight: 2
+  - name: 소속
+    url: /#talks
+    weight: 3
+  - name: 경력
+    url: experience/
+    weight: 4
+  - name: 프로젝트
+    url: projects/
+    weight: 5
+
     name: 요약
     url: /
-    weight: 2
+    weight: 1
     parent: 소개
     name: 연구
     url: /#research
     weight: 2
     parent: 소개
-  - name: 근황
-    url: /#papers
-    weight: 13
+
     name: 주요 근황
     url: /#papers
-    weight: 14
+    weight: 1
     parent: 근황
     name: 최근 근황
     url: /#recent
-    weight: 15
+    weight: 2
     parent: 근황
-  - name: 소속
-    url: /#talks
-    weight: 16
+  
     name: 전공
     url: /#talks
-    weight: 17
+    weight: 1
     parent: 소속
     name: 전북대학교
     url: https://www.jbnu.ac.kr
-    weight: 18
+    weight: 2
     parent: 소속
-  - name: 경력
-    url: experience/
-    weight: 50
-  - name: 프로젝트
-    url: projects/
-    weight: 60
+  
+  
