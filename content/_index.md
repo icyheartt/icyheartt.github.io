@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: 백찬규
 date: 2022-10-24
 type: landing
 
@@ -15,7 +15,7 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
+      button: 
         text: Download CV
         url: uploads/resume.pdf
     design:
