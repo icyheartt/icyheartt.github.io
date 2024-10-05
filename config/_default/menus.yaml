@@ -4,21 +4,38 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 메인
+  - name: 소개
     url: /
     weight: 10
+    name: 요약
+    url: /
+    weight: 11
+    parent: 소개
+    name: 연구
+    url: /#research
+    weight: 12
+    parent: 소개
   - name: 근황
     url: /#papers
-    weight: 11
-  - name: 전공
-    url: /#talks
-    weight: 12
-  - name: 소속
-    url: /#news
     weight: 13
+    name: 주요 근황
+    url: /#papers
+    weight: 14
+    parent: 근황
+    name: 최근 근황
+    url: /#recent
+    weight: 15
+    parent: 근황
+  - name: 소속
+    url: /#talks
+    weight: 16
+    name: 전공
+    url: /#talks
+    weight: 17
+    parent: 소속
     name: 전북대학교
     url: https://www.jbnu.ac.kr
-    weight: 14
+    weight: 18
     parent: 소속
   - name: 경력
     url: experience/
