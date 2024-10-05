@@ -3,8 +3,8 @@
 title: 백찬규
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Changyu
+last_name: Baek
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: 대학생
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,20 +28,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:qorcksrb9131@jbnu.ac.kr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/icyheartt
 
 interests:
   - Artificial Intelligence
