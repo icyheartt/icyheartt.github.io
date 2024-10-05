@@ -17,7 +17,7 @@ main:
     url: /#news
     weight: 13
     name: 전북대학교
-    url: https://jbnu.ac.kr
+    url: https://www.jbnu.ac.kr
     weight: 14
     parent: 소속
   - name: 경력
