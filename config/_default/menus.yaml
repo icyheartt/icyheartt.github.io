@@ -20,29 +20,29 @@ main:
     url: projects/
     weight: 5
 
-    name: 요약
+  - name: 요약
     url: /
     weight: 1
     parent: 소개
-    name: 연구
+  - name: 연구
     url: /#research
     weight: 2
     parent: 소개
 
-    name: 주요 근황
+  - name: 주요 근황
     url: /#papers
     weight: 1
     parent: 근황
-    name: 최근 근황
+  - name: 최근 근황
     url: /#recent
     weight: 2
     parent: 근황
   
-    name: 전공
+  - name: 전공
     url: /#talks
     weight: 1
     parent: 소속
-    name: 전북대학교
+  - name: 전북대학교
     url: https://www.jbnu.ac.kr
     weight: 2
     parent: 소속
