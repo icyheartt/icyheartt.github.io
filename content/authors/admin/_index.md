@@ -92,18 +92,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Game
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: gamepad
+      - name: Dogs
         description: ''
         percent: 80
-        icon: camera
+        icon: dog
+      - name: Novels
+        description: ''
+        percent: 70
+        icon: book
 
 languages:
   - name: English
