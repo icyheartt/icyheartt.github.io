@@ -1,7 +1,7 @@
 ---
 title: Recent & Upcoming Talks
 cms_exclude: true
-url: https://csai.jbnu.ac.kr/csai/index.do
+#url: talk
 
 # View
 view: card
