@@ -99,7 +99,7 @@ skills:
       - name: Dogs
         description: ''
         percent: 80
-        icon: hb-dog
+        icon: dog
       - name: Novels
         description: ''
         percent: 70
