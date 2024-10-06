@@ -48,28 +48,17 @@ education:
       url: 'https://example.com'
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: 팀원
+    company_name: 전북대학교 캡스톤디자인 포말감팀
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-09-26
+    date_end: '2024-12-07'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 2세대 스마트팜의 생장 관측을 위한 데이터 전처리
+      - ROI 지정기술 opencv 사용
+      - AI기술을 이용해 학습
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -117,4 +106,4 @@ languages:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+게임 개발자를 목표로 하는 전북대학교 학생입니다.
