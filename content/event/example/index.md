@@ -1,7 +1,7 @@
 ---
 title: 전공
 
-event: **컴퓨터인공지능학부**
+event: 컴퓨터인공지능학부
 event_url: https://csai.jbnu.ac.kr/csai/index.do
 
 location: 공과대학 7호관
