@@ -95,15 +95,18 @@ skills:
       - name: Game
         description: ''
         percent: 100
-        icon: gamepad
+        icon: fas/gamepad
+        icon_pack: fas
       - name: Dogs
         description: ''
         percent: 80
-        icon: dog
+        icon: fas/paw
+        icon_pack: fas
       - name: Novels
         description: ''
         percent: 70
-        icon: book
+        icon: fas/book
+        icon_pack: fas
 
 languages:
   - name: English
